@@ -1,6 +1,6 @@
-# Milwaukee Parking Ticket Data 2014-2018
+# Milwaukee Parking Ticket Data 2014-Sept 2019
 
-The file is gzipped, and unzips to around 310MB.
+The file is compressed with xz to around 43MB, and decompresses to around 345MB.
 
 It looks like:
 
